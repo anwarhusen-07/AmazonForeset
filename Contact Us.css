@@ -62,15 +62,15 @@ h1 {
 }
 
 .person .image1 {
-  height: 30vw;
+  height: 50vh;
   background: url("/media/anwar.jpg") no-repeat center/cover;
 }
 .person .image2 {
-  height: 30vw;
+  height: 50vh;
   background: url("/media/abhishek.jpg") no-repeat center/cover;
 }
 .person .image3 {
-  height: 30vw;
+  height: 50vh;
   background: url("/media/praveen.jpg") no-repeat center/cover;
 }
 
